@@ -7,7 +7,7 @@
 
 A simple web app that displays the current online players/rooms for **Mario Kart Wii Deluxe X**, a Custom Track-Distribution for Mario Kart Wii.
 
-**App available at: [https://dx.heyfordy.de](https://dx.heyfordy.de)**
+**App available at: [https://dx.heyfordy.dev](https://dx.heyfordy.dev)**
 
 ## 🚀 Features
 
@@ -32,6 +32,6 @@ A simple web app that displays the current online players/rooms for **Mario Kart
 
 This project is licensed under the [MIT](./LICENSE) License.
 
-Copyright © 2026 [dx.heyfordy.de](https://dx.heyfordy.de)
+Copyright © 2026 [dx.heyfordy.dev](https://dx.heyfordy.dev)
 
 If you use or adapt this code for your own projects, please provide attribution by linking back to the original repository or website.

@@ -1,9 +1,9 @@
 const el = (id) => document.getElementById(id);
 
 // API configuration
-const API_GROUPS = "https://api.heyfordy.de/newwfc";
-const API_JSON = "https://api.heyfordy.de/dx_app/json";
-const MII_API_URL = "https://api.heyfordy.de/dx_app/mii";
+const API_GROUPS = "https://api.heyfordy.dev/newwfc";
+const API_JSON = "https://api.heyfordy.dev/dx_app/json";
+const MII_API_URL = "https://api.heyfordy.dev/dx_app/mii";
 const MAX_MIIS_PER_REQUEST = 24;
 const MII_EXPIRE_TIME = 1000 * 60 * 60 * 24; 
 const RELOAD_TIME = 5000; 
